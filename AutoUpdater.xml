@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.0.0.1</version>
-    <url>https://jticorp.sharepoint.com/:u:/r/teams/TTIT/Shared%20Documents/General/Support%20Team%20Tools%20%26%20Information/Pallet%20Repair%20App/PalletRepairApp_2_0_0_1/PalletRepair.zip?csf=1&web=1&e=9abhPD</url>
+    <url>https://jticorp.sharepoint.com/teams/TTIT/Shared%20Documents/General/Support%20Team%20Tools%20and%20Information/Pallet%20Repair%20App/PalletRepairApp_2_0_0_1/PalletRepair.zip</url>
     <changelog></changelog>
     <mandatory minVersion="2.0.0.1">true</mandatory>
 </item>
