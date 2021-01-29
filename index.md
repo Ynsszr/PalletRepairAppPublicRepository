@@ -3,7 +3,7 @@
 ### Markdown
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted cyyode block
 
 # Header 1
 ## Header 2
