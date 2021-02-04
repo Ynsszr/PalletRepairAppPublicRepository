@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.0.30</version>
-    <url>https://jticorp.sharepoint.com/teams/TTIT/Shared%20Documents/General/Support%20Team%20Tools%20and%20Information/Pallet%20Repair%20App/PalletRepairApp_2.0.0.30.zip</url>
+    <version>2.3</version>
+    <url>https://jticorp.sharepoint.com/teams/TTIT/Shared%20Documents/General/Support%20Team%20Tools%20and%20Information/Pallet%20Repair%20App/PalletRepairApp_2.3.zip</url>
     <changelog>https://github.com/Ynsszr/PalletRepairAppPublicRepository/releases</changelog>
     <mandatory minVersion="2.0.0.0">true</mandatory>
 </item>
